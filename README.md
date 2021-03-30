@@ -1,5 +1,7 @@
 # Language Connect
 
+*Note* This ReadMe is in progress. More information will be added soon!
+
 For Project 4, my group decided to create a language swap service, where users can post languages they wish to teach or learn and connect with other users on the platform. I primarily took a leading role on this project, contributing to the controllers on the back end as well as design lead on the front end. 
 
 The project is deployed on Heroku which can be viewed here: 
@@ -42,7 +44,7 @@ You can log in and create an account, however, you may also use this log in to v
 ## Database and Backend
 The backend was the most complex part of the project. While our initial plan gave us a good base for creating the back end and the database, there were definitely issues that arose that had us change the plan.
 
-Originally, we intended on having 
+ 
 ## Front End Design and Components
 As design lead, my focus on the front end primarily focused on the overall design of the site, as well as formatting the Search, Post, and My Posts pages.
 
