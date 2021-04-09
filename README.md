@@ -1,3 +1,6 @@
+### ![GA](https://cloud.githubusercontent.com/assets/40461/8183776/469f976e-1432-11e5-8199-6ac91363302b.png) General Assembly, Software Engineering Immersive
+
+
 # Language Connect
 
 For Project 4, my group decided to create a language swap service, where users can post languages they wish to teach or learn and connect with other users on the platform. I primarily took a leading role on this project, contributing to the controllers on the back end as well as design lead on the front end. 
@@ -37,6 +40,31 @@ You can log in and create an account, however, you may also use this log in to v
 
 ## Timeframe: 1 week (5 working days)
 
+## Screenshots
+
+Homepage
+![homepage](images/homepage.png)
+
+Search page to see all mapped posts
+![search](images/search.png)
+
+Post page
+![post page](images/postpage.png)
+
+Post Comments
+![post comments](images/postcomments.png)
+
+My Posts page
+![my posts](images/myposts.png)
+
+Post page from the Owners perspective
+![post page from user](images/postpageuser.png)
+
+Update Posts page
+![update posts](images/updatepost.png)
+
+Update User Page
+![update user](images/updateuser.png)
 ## Plan
 Originally, we wanted to create a skills swap website, but due to the limited time, we decided to focus on one skill, languages, and focus on the sub categories within that skill. WE created a mock up of how we wanted our tables to look, with most information linking back to either the Users or Posts table. 
 ## Database and Backend
