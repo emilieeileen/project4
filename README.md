@@ -366,6 +366,16 @@ export default LikeButton;
 ## Bugs
 - Some of the Formik validations do not run when missing required fields. 
 
+## Wins and Challenges
+### Wins
+- Creating a PostgreSQL database with python controllers that successfully show the correct information on the front pages.
+- Taking on the role of Design Lead and customising a Bulma based style sheet
+- Adding in some frontend filtering on the front page that works with the Get All Posts endpoint and the Get Posts by Language endpoint. 
+
+### Challenges
+- We really struggled with the creation of the tables and trying to implement so additional many to many tables. We realised that this was not neccesary for what we were looking to display on the front end so we redid our models and the correct id's the the relationalships successfully displayed on Table Plus.
+- While the posting formik forms worked alright, we noticed that the updating forms were not correctly displaying the updated information. To solve this, I moved over to working on the Formik sheets and was able to find the correct variable to add into the function to display the updated information. 
+
 ## Lessons Learned
 I believe my group and I found this experience enjoyable. I particularly was proud of the confidence I felt taking on the project lead role. Looking back, I do wish we had more time to flesh out some of the components we were not able to add, such as the saved posts or the translation features. This is something I plan to work on after the course as I look for my first professional role. 
 
