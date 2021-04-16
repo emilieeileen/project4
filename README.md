@@ -66,7 +66,7 @@ Update Posts page
 Update User Page
 ![update user](images/updateuser.png)
 ## Plan
-Originally, we wanted to create a skills swap website, but due to the limited time, we decided to focus on one skill, languages, and focus on the sub categories within that skill. WE created a mock up of how we wanted our tables to look, with most information linking back to either the Users or Posts table. 
+Originally, we wanted to create a skills swap website, but due to the limited time, we decided to focus on one skill, languages, and focus on the sub categories within that skill. We created a mock up of how we wanted our tables to look, with most information linking back to either the Users or Posts table. 
 ## Database and Backend
 The backend was the most complex part of the project. While our initial plan gave us a good base for creating the back end and the database, there were definitely issues that arose that had us change the plan.
 
@@ -109,7 +109,7 @@ For the SQL tables, they often connect with ids. This has the id number of the u
 ## Front End Design and Components
 As design lead, my focus on the front end primarily focused on the overall design of the site, as well as formatting the Search, Post, and My Posts pages.
 
-Having used Bulma on previous projects, I had never take the lead myself and found this project a good opportunity to get better acquainted with this design library.
+Having used Bulma on previous projects, I had never taken the lead myself and found this project a good opportunity to get better acquainted with this design library.
 
 We chose a green and gold color scheme and found royalty free globe images to give the site a worldly and global feel. While the *Home* page uses the standard hero home template from Bulma, we wanted our other pages to look Bulma inspired with our own unique twists. 
 
@@ -324,7 +324,7 @@ onSubmit={async (values, { setSubmitting }) => {
         }
         }}
 ```
-At end of the project, I wanted to get some experience with classical components, which led me to add in the *Like Counter* button. While we did not have the time to add it to a table in the back end, it added an additional feature on the front end, The number of 'likes' increases each time the user clicks it.
+At end of the project, I wanted to get some experience with classical components, which led me to add in the *Like Counter* button. While we did not have the time to add it to a table in the back end, it added an additional feature on the front end, the number of 'likes' increases each time the user clicks it.
 
 ```js
 import React, { Component } from 'react'
